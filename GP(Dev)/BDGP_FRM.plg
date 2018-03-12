@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Богомаз\Bogomaz\Firmware\БДГП-Б\GP(Dev)\firmware.uvproj
+Project File Date:  11/16/2017
+
+<h2>Output:</h2>
+Build target '1887ВЕ3Т'
+linking...
+Program Size: data=5324(near=5324) const=108(near=28) code=9000
+creating hex file from "BDGP_FRM"...
+"BDGP_FRM" - 0 Error(s), 0 Warning(s).
+Load "D:\\Богомаз\\Bogomaz\\Firmware\\БДГП-Б\\GP(Dev)\\BDGP_FRM" 
+Erasing...
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Load "D:\\Богомаз\\Bogomaz\\Firmware\\БДГП-Б\\GP(Dev)\\BDGP_FRM" 
+Erasing...
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Load "D:\\Богомаз\\Bogomaz\\Firmware\\БДГП-Б\\GP(Dev)\\BDGP_FRM" 
+Erasing...
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target '1887ВЕ3Т'
+linking...
+Program Size: data=5324(near=5324) const=108(near=28) code=9000
+creating hex file from "BDGP_FRM"...
+"BDGP_FRM" - 0 Error(s), 0 Warning(s).
